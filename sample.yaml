@@ -1,0 +1,13 @@
+# list of objects here employees
+- Martin: # object
+   name: MArtin # key-valued pairs
+   Job: Developer
+   skills:
+   - python # lists
+   - Django
+- Louis:
+   name: Louis
+   Job: Tester
+   skills:
+   - Sel
+   - UFT
