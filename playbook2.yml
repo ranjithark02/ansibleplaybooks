@@ -1,4 +1,4 @@
- :i- hosts: webservers
+- hosts: webservers
   become: true
   become_user: root
   tasks:
